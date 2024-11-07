@@ -1,1 +1,2 @@
-!!editado!! Meu novo arquivo na branch de feature!! editado!!
+alterado!! Meu novo arquivo na branch de feature!! alterado!! &&&&&&&&&&&&&& !!editado!! Meu novo arquivo na branch de feature!! editado!!
+
